@@ -1,3 +1,13 @@
 1. E-Commerce Live Link 
 
 https://e-commerce-mern-front.netlify.app/
+
+2. This project is divided into two panel such as Admin panel and User panel
+
+3. When a person get registered in first time, he is registered as user by default.
+
+4. You have to manually change him to admin from database user table. In user table role 1 indicate admin and role 2 indicate user
+
+5. Category page, Product page is seen only to admin and he can see, create and edit category and Product
+
+6. Cart page and Checkout page is seen only to user. 
